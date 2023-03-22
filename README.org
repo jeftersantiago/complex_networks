@@ -9,9 +9,9 @@ Notes, projects and articles from the course of Complex Networks.
 
 
 * Aditional resources
- - [[https://www.youtube.com/watch?v=2rzxAyY7D7k][[Video] - Connected: The Power of Six Degrees]]
- - [[https://www.youtube.com/watch?v=BQZKs75RMqMhttps://www.youtube.com/watch?v=BQZKs75RMqM][[Video] - A Visual History of Human Knowledge | Manuel Lima | TED Talks]]
- - [[https://www.youtube.com/watch?v=10oQMHadGos][[Video] - Do your proteins have their own social network?]]
- - [[http://networksciencebook.com/][[Book] - Network Science]]
+ - [[https://www.youtube.com/watch?v=2rzxAyY7D7k][(Video) - Connected: The Power of Six Degrees]]
+ - [[https://www.youtube.com/watch?v=BQZKs75RMqMhttps://www.youtube.com/watch?v=BQZKs75RMqM][(Video) - A Visual History of Human Knowledge | Manuel Lima | TED Talks]]
+ - [[https://www.youtube.com/watch?v=10oQMHadGos][(Video) - Do your proteins have their own social network?]]
+ - [[http://networksciencebook.com/][(Book) - Network Science]]
 
   
